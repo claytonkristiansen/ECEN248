@@ -1,0 +1,12 @@
+
+{ 
+    crc :  8423189301892561671  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 68dcf2eb1d7249e8b7233c0e768a6852 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot cla_4bit_tb_behav xil_defaultlib.cla_4bit_tb xil_defaultlib.glbl" , 
+    buildDate : "Dec  7 2018" , 
+    buildTime : "00:33:28" , 
+    linkCmd : "C:\\Xilinx\\Vivado\\2018.3\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/cla_4bit_tb_behav/xsimk.exe\"   \"xsim.dir/cla_4bit_tb_behav/obj/xsim_0.win64.obj\" \"xsim.dir/cla_4bit_tb_behav/obj/xsim_1.win64.obj\" -L\"C:\\Xilinx\\Vivado\\2018.3\\lib\\win64.o\" -lrdi_simulator_kernel  -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

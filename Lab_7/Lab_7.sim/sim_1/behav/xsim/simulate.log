@@ -1,0 +1,12 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+              SR-latch Reset Test failed: X should be 1
+             SR-latch Hold 0 Test passed
+                SR-latch Set Test failed: 3 should be 2
+             SR-latch Hold 1 Test passed
+     SR-latch Reset from Set Test failed: 3 should be 1
+      SR-latch Enable Hold Test 1 passed
+      SR-latch Enable Hold Test 2 passed
+      SR-latch Enable Hold Test 3 passed
+      SR-latch Enable Hold Test 4 passed
+Some tests failed

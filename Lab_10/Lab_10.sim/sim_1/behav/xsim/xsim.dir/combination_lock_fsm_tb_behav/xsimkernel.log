@@ -1,0 +1,7 @@
+Running: xsim.dir/combination_lock_fsm_tb_behav/xsimk.exe -simmode gui -wdb combination_lock_fsm_tb_behav.wdb -simrunnum 0 -socket 58964
+Design successfully loaded
+Design Loading Memory Usage: 5692 KB (Peak: 5692 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 6312 KB (Peak: 6312 KB)
+Simulation CPU Usage: 46 ms

@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/Clayt/repos/ECEN248/Lab 10/Lab 10.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/Clayt/repos/ECEN248/Lab 10/Lab 10.srcs/sources_1/new/combination_lock.v,1601760786,verilog,,,,combination_lock,,,,,,,,
+C:/Users/Clayt/repos/ECEN248/Lab 10/Lab 10.srcs/sources_1/new/combination_lock_fsm.v,1604886761,verilog,,C:/Users/Clayt/repos/ECEN248/Lab 10/Lab 10.srcs/sources_1/new/combination_lock_fsm_tb.v,,combination_lock_fsm,,,,,,,,
+C:/Users/Clayt/repos/ECEN248/Lab 10/Lab 10.srcs/sources_1/new/combination_lock_fsm_tb.v,1604886835,verilog,,,,combination_lock_fsm_tb,,,,,,,,
+C:/Users/Clayt/repos/ECEN248/Lab 10/Lab 10.srcs/sources_1/new/synchronizer.v,1601760895,verilog,,C:/Users/Clayt/repos/ECEN248/Lab 10/Lab 10.srcs/sources_1/new/combination_lock.v,,synchronizer,,,,,,,,
